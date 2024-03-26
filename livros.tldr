@@ -1,0 +1,176 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 1,
+		"storeVersion": 4,
+		"recordVersions": {
+			"asset": {
+				"version": 1,
+				"subTypeKey": "type",
+				"subTypeVersions": {
+					"image": 3,
+					"video": 3,
+					"bookmark": 1
+				}
+			},
+			"camera": {
+				"version": 1
+			},
+			"document": {
+				"version": 2
+			},
+			"instance": {
+				"version": 24
+			},
+			"instance_page_state": {
+				"version": 5
+			},
+			"page": {
+				"version": 1
+			},
+			"shape": {
+				"version": 3,
+				"subTypeKey": "type",
+				"subTypeVersions": {
+					"group": 0,
+					"text": 1,
+					"bookmark": 2,
+					"draw": 1,
+					"geo": 8,
+					"note": 5,
+					"line": 4,
+					"frame": 0,
+					"arrow": 3,
+					"highlight": 0,
+					"embed": 4,
+					"image": 3,
+					"video": 2
+				}
+			},
+			"instance_presence": {
+				"version": 5
+			},
+			"pointer": {
+				"version": 1
+			}
+		}
+	},
+	"records": [
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"id": "pointer:pointer",
+			"typeName": "pointer",
+			"x": 1844.8506103648194,
+			"y": 440.08714570859087,
+			"lastActivityTimestamp": 1711424795376,
+			"meta": {}
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "Trabalho focado de Cal Newport",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"x": 753.2618049910295,
+			"y": 232.67383190977347,
+			"z": 0.6527825945684765,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {
+				"tldraw:horizontalAlign": "middle",
+				"tldraw:size": "m",
+				"tldraw:font": "draw"
+			},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 1799.1666259765625,
+				"h": 805.8333129882812
+			},
+			"insets": [
+				false,
+				true,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"canMoveCamera": true,
+			"isFocused": true,
+			"devicePixelRatio": 1.2000000476837158,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"x": -371.42908597034784,
+			"y": -36.59017241113946,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1992.484375,
+				"text": "Questoes como metrificar o trabalho em um contexto empresarial se tornar uma tarefa quase que\nimpossivel uma vez que trabalhadores do conhecimento possuem dificultade para enxergar e exercer essa \nessa metrica de forma palpavel, o autor do livro cita isso como sendo O buraco negro da métrica, fazendo com que\na forma como metrificamos essas atividade em outra palavras, medimos a produtividade seja feita atraves de métodos\nindustriais, ele cita como exemplo a CEO do Yahoo! que em uma determinada época de sua gestão proibiui o trabalho em \nhome office, porque ao analisar os logs dos servidores privados constatou que a quantidade de login era extremamente\nbaixa entre aquele que estavam em regime de home office, e como forma de punição tomou tão ação. O que torna isso um tanto\nquanto contra-intuitivo uima vez que os funcionarios logavam nos servidores privados da empresa com a unica função de\nresponder e-mail, isso significa que ela puniu os funcionario por não responderem e-mail o suficiente. Isso é interessante de ser\nanalisado pois como o livro fala; O buraco negro da metrificação faz com que os trabalhadores do conhecimento sejam, e não só sejam,\nmas também se submetem se metrificarem de outras forma como por exemplo, responder a maior quantidade de e-mail possivel \nandar pelo escritorio e conversar com pessoas sobre assuntos pouco importantes relacionados ao trabalho (que visualmente para \nas pessoas que estão ao redor, vão ter uma percepção de que vc esta sendo produtivo, porém somente visualmente falando), fazendo \ncom que seu rendimento real não seja tão amplo quanto poderia ser. O trabalho focado é uma habilidade rara que cada vez mais as empresas\nque empregam trabalhadores do conhecimento fazem isso ser esquecido, desencorajado indiretamente e pouco adotado. Por fim como\nultimo exemplo disso o autor fala sobre uma jornalista do The Times que trabalha na africa fazendo materias e denuncias sobre \nacontecimento que ocorrem no local, materiais esses que são extremamente importantes e como consequencia seu trabalho se torna brilhante, \nporém a empresa lhe envia lembretes semanais para fazer tweets na rede social da empresa como forma de mater seus seguidores intertidos \ncom e engajados, na maioria das vezes ela apenas faz citações sobre artigos que leu recentemente e que achou interessante. Esse é apenas \nmais um exemplo do ofeito O buraco negro da métrica, que faz com que as empresas recorram a métodos industriais como forma de medir \na produtividade do trabalhador do conhecimento. O trabalhao focado esta em grande desvantagem em tecnopolito (pessoa ou grupo de pessoas\nque consideram a alta tecnologia como sendo algo benefico cegamente ignorando o seus onus, logo pressumimos então que se altamente tecnologico\nentão é bom. Caso encerrado!), porque se baseia em qualidade, habilidade e dominio, valores decididamente fora da moda e não tecnologicos. Para um ferreiro\nque nos dias atuais executa seu oficio como um atividade ainda contemplada pela sociedade, deixar de usar as redes sociais ao olhos dos outros é algo \naceitavel, agora um trabalhado do conhecimento que decide deixar o mundo cibernetico de lado é olhado e na maioria das vezes julgado como sendo antquado \npelo seu meio.",
+				"font": "draw",
+				"align": "middle",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a1",
+			"id": "shape:vZRzyBv9g_Cpr5wuszOPm",
+			"typeName": "shape"
+		}
+	]
+}
